@@ -13,7 +13,7 @@ axes1 = axes('Parent',figure1);
 hold(axes1,'on');
 
 % Create plot
-stem(X1,Y1,'Color',[1 0 1]);
+plot(X1,Y1,'Color',[1 0 1]);
 
 box(axes1,'on');
 hold(axes1,'off');
