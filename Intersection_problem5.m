@@ -1,4 +1,4 @@
-function [y] = Intersetion_problem5(x,a,b,n)
+function [y] = Intersection_problem5(x,a,b,n)
 subplot(311)
 plot(x,a)
 subplot(312)
